@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Project1/src/progs&apos;&#x0A;- Original project: &apos;Project1&apos;&#x0A;- Destination element: &apos;Project1/src/progs&apos;&#x0A;- Original elements:&#x0A;     Fibo.java&#x0A;     RandomString.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;progs" element1="/src&lt;{Fibo.java" element2="/src&lt;{RandomString.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1544512126887" units="2" version="1.0"/>
+</session>
